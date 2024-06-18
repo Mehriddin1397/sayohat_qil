@@ -1,0 +1,20 @@
+#time
+{
+    display: flex;
+    gap: 40px;
+    color: green;
+}
+#time .circle
+{
+    position: relative;
+    display: flex;
+}
+#time div
+{
+    position: absolute;
+
+}
+#time .ap
+{
+    position: relative;
+}
